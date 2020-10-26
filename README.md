@@ -7,3 +7,7 @@ This is an incremental repo of data visualization. By `data` here, it means diff
 - good-looking (enjoyable ;) ) - why not
 - computing/executing-efficient
 
+## Table of Contents
+1. [Visualize a matrix with Seaborn](https://github.com/yiliu-coding/visualization_with_python/blob/master/numpy_array_sns_pairplot.ipynb)
+2. ...
+3. ...
